@@ -7,3 +7,4 @@ OpenSuspect online client.
 ### Due to using a web host, you cannot:
 - Join any local servers(must be a public server or you can run a local web server)
 ##Default KEYBIND: WASD
+# Web export by GODOT game engine. Game by OpenSuspect team.
